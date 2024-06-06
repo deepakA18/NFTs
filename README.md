@@ -1,114 +1,153 @@
-Smile SVG:
-data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pg0KPCEtLSBHZW5lcmF0
-b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZl
-cnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPg0KPHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8x
-IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8v
-d3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgdmlld0JveD0iMCAwIDUx
-MiA1MTIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDUxMiA1MTI7IiB4bWw6c3Bh
-Y2U9InByZXNlcnZlIj4NCjxnPg0KCTxnPg0KCQk8Zz4NCgkJCTxwYXRoIGQ9Ik0zNTguMzg0LDE0
-NS4wNjdjLTE4LjgyNSwwLTM0LjEzMywxNS4zMDktMzQuMTMzLDM0LjEzM3MxNS4zMDksMzQuMTMz
-LDM0LjEzMywzNC4xMzMNCgkJCQljMTguODE2LDAsMzQuMTMzLTE1LjMwOSwzNC4xMzMtMzQuMTMz
-UzM3Ny4yLDE0NS4wNjcsMzU4LjM4NCwxNDUuMDY3eiBNMzU4LjM4NCwxNzAuNjY3Yy00LjcxLDAt
-OC41MzMtMy44MjMtOC41MzMtOC41MzMNCgkJCQljMC00LjcxLDMuODIzLTguNTMzLDguNTMzLTgu
-NTMzYzQuNzEsMCw4LjUzMywzLjgyMyw4LjUzMyw4LjUzM0MzNjYuOTE3LDE2Ni44NDQsMzYzLjA5
-NCwxNzAuNjY3LDM1OC4zODQsMTcwLjY2N3oiLz4NCgkJCTxwYXRoIGQ9Ik0xODcuNzM3LDE3OS4y
-YzAtMTguODI1LTE1LjMwOS0zNC4xMzMtMzQuMTMzLTM0LjEzM2MtMTguODI1LDAtMzQuMTMzLDE1
-LjMwOS0zNC4xMzMsMzQuMTMzDQoJCQkJczE1LjMwOSwzNC4xMzMsMzQuMTMzLDM0LjEzM0MxNzIu
-NDI4LDIxMy4zMzMsMTg3LjczNywxOTguMDI1LDE4Ny43MzcsMTc5LjJ6IE0xNDUuMDcsMTk2LjI2
-N2MwLTQuNzEsMy44MjMtOC41MzMsOC41MzMtOC41MzMNCgkJCQljNC43MSwwLDguNTMzLDMuODIz
-LDguNTMzLDguNTMzcy0zLjgyMyw4LjUzMy04LjUzMyw4LjUzM0MxNDguODkzLDIwNC44LDE0NS4w
-NywyMDAuOTc3LDE0NS4wNywxOTYuMjY3eiIvPg0KCQkJPHBhdGggZD0iTTI1NiwwQzExNC44NDIs
-MCwwLDExNC44NDIsMCwyNTZzMTE0Ljg0MiwyNTYsMjU2LDI1NnMyNTYtMTE0Ljg0MiwyNTYtMjU2
-UzM5Ny4xNTgsMCwyNTYsMHogTTEwMi40LDE3OS4yDQoJCQkJYzAtMjcuMjk4LDIxLjQ4Ny00OS42
-MDQsNDguNDI3LTUxLjA2M2wtMTEuNTk3LTExLjU4OGMtMy4zMzYtMy4zMzctMy4zMzYtOC43Mzgs
-MC0xMi4wNjZjMy4zMjgtMy4zMzYsOC43My0zLjMzNiwxMi4wNjYsMA0KCQkJCWw3Ni41ODcsNzYu
-NTg3YzMuMzM3LDMuMzI4LDMuMzM3LDguNzMsMCwxMi4wNjZjLTEuNjY0LDEuNjY0LTMuODQ5LDIu
-NS02LjAzMywyLjVjLTIuMTg1LDAtNC4zNjktMC44MzYtNi4wMzMtMi41DQoJCQkJbC0xMS4xNTMt
-MTEuMTUzYy0xLjQ1OSwyNi45NC0yMy43NjUsNDguNDE4LTUxLjA2Myw0OC40MThDMTI1LjM3Miwy
-MzAuNCwxMDIuNCwyMDcuNDM3LDEwMi40LDE3OS4yeiBNMzY1Ljc5LDMyOC41NDINCgkJCQljLTIz
-LjIxOSw0MC4wNzMtNjQuMjU2LDYzLjk5MS0xMDkuNzksNjMuOTkxYy00NS41MjUsMC04Ni41NzEt
-MjMuOTE5LTEwOS43ODEtNjMuOTkxYy0yLjM2NC00LjA3OS0wLjk3My05LjI5MywzLjEwNi0xMS42
-NTcNCgkJCQljNC4wOTYtMi4zNzIsOS4zMDEtMC45NzMsMTEuNjY1LDMuMTA2YzIwLjEyMiwzNC43
-MzksNTUuNjQ2LDU1LjQ3NSw5NS4wMSw1NS40NzVjMzkuMzczLDAsNzQuODk3LTIwLjczNiw5NS4w
-MTktNTUuNDc1DQoJCQkJYzIuMzcyLTQuMDc5LDcuNTc4LTUuNDc4LDExLjY2NS0zLjEwNkMzNjYu
-NzU0LDMxOS4yNDksMzY4LjE1NCwzMjQuNDYzLDM2NS43OSwzMjguNTQyeiBNMzU4LjM4MywyMzAu
-NA0KCQkJCWMtMjcuMjk4LDAtNDkuNjA0LTIxLjQ3OC01MS4wNjMtNDguNDE4bC0xMS4xNTMsMTEu
-MTUzYy0xLjY2NCwxLjY2NC0zLjg0OSwyLjUtNi4wMzMsMi41Yy0yLjE3NiwwLTQuMzYxLTAuODM2
-LTYuMDMzLTIuNQ0KCQkJCWMtMy4zMjgtMy4zMzctMy4zMjgtOC43MzgsMC0xMi4wNjZsNzYuNTk1
-LTc2LjU4N2MzLjMyOC0zLjMzNiw4LjczLTMuMzM2LDEyLjA2NiwwYzMuMzI4LDMuMzI4LDMuMzI4
-LDguNzMsMCwxMi4wNjYNCgkJCQlsLTExLjU5NywxMS41ODhjMjYuOTQsMS40NTksNDguNDE4LDIz
-Ljc2NSw0OC40MTgsNTEuMDYzQzQwOS41ODMsMjA3LjQzNywzODYuNjIsMjMwLjQsMzU4LjM4Mywy
-MzAuNHoiLz4NCgkJPC9nPg0KCTwvZz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4N
-CjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8
-L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9n
-Pg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjwvc3ZnPg0K
+# Getting Started
+
+## Requirements
+
+- [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+  - You'll know you did it right if you can run `git --version` and you see a response like `git version x.x.x`
+- [foundry](https://getfoundry.sh/)
+  - You'll know you did it right if you can run `forge --version` and you see a response like `forge 0.2.0 (816e00b 2023-03-16T00:05:26.396218Z)`
 
 
-Goofy SVG: 
+## Quickstart
 
-data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pg0KPCEtLSBHZW5lcmF0
-b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE2LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZl
-cnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPg0KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8v
-RFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQv
-c3ZnMTEuZHRkIj4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iQ2FwYV8xIiB4bWxucz0iaHR0cDov
-L3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5
-L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgd2lkdGg9IjYyLjM3OXB4IiBoZWlnaHQ9IjYyLjM3
-OHB4IiB2aWV3Qm94PSIwIDAgNjIuMzc5IDYyLjM3OCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5k
-Om5ldyAwIDAgNjIuMzc5IDYyLjM3ODsiDQoJIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPGc+DQoJ
-PGc+DQoJCTxwYXRoIGQ9Ik0yMi45MzgsMjAuNzcxYy0wLjQyNiwwLjAxOS0wLjc0OSwwLjY5Ni0x
-LjE1NiwxLjA5MWMtMC40MDcsMC4zOTUtMC45NzIsMC40MjktMS4wMTYsMC41DQoJCQljLTAuMDI3
-LDAuMDQzLTAuMDUxLDAuMDg3LTAuMDcyLDAuMTM2Yy0wLjU4LDEuMzQzLTAuMTc5LDIuODA5LDAu
-ODk2LDMuMjcyYzEuMDc0LDAuNDY0LDIuNDE3LTAuMjQ4LDIuOTk3LTEuNTkNCgkJCWMwLjU4LTEu
-MzQ0LDAuMTc5LTIuODEtMC44OTUtMy4yNzNDMjMuNDUsMjAuODAzLDIzLjE5NSwyMC43NjEsMjIu
-OTM4LDIwLjc3MXoiLz4NCgkJPHBhdGggZD0iTTM5Ljc3NCwyLjYzMWMtMC45NTQsMC0xLjg0Miww
-LjE0OC0yLjY0NywwLjM3OWMtMC41NTMsMC4xNTktMS40NDIsMC4yNS0yLjAxMiwwLjE2Nw0KCQkJ
-Yy0xLjI4Mi0wLjE4OC0yLjU5MS0wLjI4OS0zLjkyNi0wLjI4OWMtMC4xNzgsMC0wLjM1NSwwLjAw
-My0wLjUzMywwLjAwOGMtMC4yOTMsMC4wMDktMC44NzMtMC4yOTktMS4zMzMtMC42NDUNCgkJCUMy
-OC4wODMsMS4zMiwyNS44MjMsMCwyMi45NywwYy0xLjE3NiwwLTIuMzQ2LDAuMjI0LTMuNDc5LDAu
-NjY3Yy01LjY1NywyLjIwOC04LjI2Myw5LjAzNS04LjM3LDkuMzI1DQoJCQljLTAuMTA0LDAuMjc2
-LTAuMTM5LDAuNTYtMC4xMTgsMC44MzhjMC4wMzYsMC40NjktMC4wODYsMS4xNTgtMC40NTksMS41
-OTZDNi41MDUsMTcuMTYxLDQuMDY0LDIzLjMsNC4wNjQsMzAuMDEyDQoJCQljMCwxMy42OTUsMTAu
-MTQ5LDI1LjAxOSwyMy4zMzUsMjYuODYyYzAuNTcsMC4wNzgsMS4zMiwwLjQ5MiwxLjY5OSwwLjky
-NmMyLjg0NCwzLjI1Nyw2LjkzOCw1Ljc1NSwxMi40MTIsNA0KCQkJYzUuMjU0LTEuNjg2LDcuMDA2
-LTUuOTI5LDcuMzExLTEwLjE4NWMwLjA0Mi0wLjU3NCwwLjQwMy0xLjM0NCwwLjgyMy0xLjczNWM1
-LjMzLTQuOTUxLDguNjctMTIuMDE5LDguNjctMTkuODY4DQoJCQljMC02LjY1My0yLjM5Ni0xMi43
-NDYtNi4zNzItMTcuNDY1Yy0wLjM3LTAuNDM5LTAuODc4LTEuMjA4LTEuMTQ0LTEuNzE5Yy0xLjE2
-OS0yLjI1LTMuNjIxLTUuOTk5LTcuNTQ0LTcuNTI5DQoJCQlDNDIuMTIyLDIuODU2LDQwLjk1LDIu
-NjMxLDM5Ljc3NCwyLjYzMXogTTIyLjMzNiwzMS42NzFjLTMuNjIsMC02LjU1My0zLjk5Mi02LjU1
-My04LjkxM2MwLTQuOTIyLDIuOTMzLTguOTEyLDYuNTUzLTguOTEyDQoJCQljMy42MiwwLDYuNTUz
-LDMuOTkxLDYuNTUzLDguOTEyQzI4Ljg5LDI3LjY3OSwyNS45NTYsMzEuNjcxLDIyLjMzNiwzMS42
-NzF6IE0xMy45OTksOS43NjdjMC44NjYtMS44MTksMy4wODgtNS43MjYsNi43NTktNy4xNTkNCgkJ
-CWMzLjUxOS0xLjM3Myw2LjQ1MiwwLjI3NCw3Ljc5OSwxLjI4M2MwLjQ2LDAuMzQ1LDAuMzI3LDAu
-NjYzLTAuMjQ3LDAuNjk5Yy0yLjI2MSwwLjE0NS03LjkwNCwwLjk3Ny0xMy45MDUsNS40OTENCgkJ
-CUMxMy45NDQsMTAuNDI3LDEzLjc1MSwxMC4yODYsMTMuOTk5LDkuNzY3eiBNMzAuMjA4LDUxLjc4
-MWwtMC4zNTQtMS4wNzhjLTAuMTExLTAuMzM3LDAuMDY5LTAuNzA1LDAuNDA1LTAuODIzbDEyLjcz
-OS00LjQ5DQoJCQljMC4zMzUtMC4xMTcsMC43MzgsMC4wNDEsMC45MDMsMC4zNTVjMCwwLDAuMTEs
-MC4yMTMsMC4yNDcsMC40NzVjMC4xMzYsMC4yNjMsMC4zNzgsMC45MjMsMC41MDksMS40ODMNCgkJ
-CWMwLjc0NCwzLjE5NCwxLjQxLDkuNDE1LTQuMDQxLDExLjE2MkMzNC41NDEsNjAuODE0LDMxLjIx
-OCw1NC4yNDgsMzAuMjA4LDUxLjc4MXogTTQwLjA0NSwzMS42NzENCgkJCWMtMy42MTksMC02LjU1
-NC0zLjk5Mi02LjU1NC04LjkxM2MwLTQuOTIyLDIuOTM1LTguOTEyLDYuNTU0LTguOTEyczYuNTUz
-LDMuOTkxLDYuNTUzLDguOTEyDQoJCQlDNDYuNTk4LDI3LjY3OSw0My42NjQsMzEuNjcxLDQwLjA0
-NSwzMS42NzF6IE0zNS4wMDEsNy4wMTZjMS4zNDctMS4wMDksNC4yOC0yLjY1Nyw3Ljc5OS0xLjI4
-Mw0KCQkJYzMuNjY5LDEuNDM0LDUuODk0LDUuMzQsNi43NTksNy4xNTljMC4yNDgsMC41MiwwLjA1
-NywwLjY2MS0wLjQwMywwLjMxNUM0My4xNTMsOC42OTMsMzcuNTEsNy44NiwzNS4yNDcsNy43MTUN
-CgkJCUMzNC42NzYsNy42NzksMzQuNTQsNy4zNjEsMzUuMDAxLDcuMDE2eiIvPg0KCQk8cGF0aCBk
-PSJNMzkuNTY1LDIzLjk1MmMtMC40MTQtMC4zOTMtMC43MzgtMS4wNzctMS4xNjUtMS4wOTZjLTAu
-MjU2LTAuMDEyLTAuNTEsMC4wMzEtMC43NTIsMC4xMzUNCgkJCWMtMS4wNzQsMC40NjQtMS40NzYs
-MS45MjktMC44OTYsMy4yNzNjMC41OCwxLjM0MywxLjkyMywyLjA1NiwyLjk5NywxLjU5MWMxLjA3
-NC0wLjQ2MywxLjQ3NS0xLjkzLDAuODk1LTMuMjcyDQoJCQljLTAuMDItMC4wNDctMC4wNDMtMC4w
-OTEtMC4wNjYtMC4xMzRDNDAuNTM3LDI0LjM3NywzOS45NzksMjQuMzQ0LDM5LjU2NSwyMy45NTJ6
-Ii8+DQoJCTxwYXRoIGQ9Ik0zNy4wNDgsNDguMzkxYy0wLjUwOSwwLjE4My0wLjY5MSwwLjczNi0w
-LjQwOSwxLjIzOGwxLjg4LDMuMzQ5YzAuMTgsMC4zMSwwLjUwMywwLjQ4MiwwLjgzNywwLjQ4Mg0K
-CQkJYzAuMTYyLDAsMC4zMjctMC4wNDEsMC40NzgtMC4xMjhjMC40NjEtMC4yNjUsMC42Mi0wLjg1
-MywwLjM1Ni0xLjMxNGwtMS43MTEtMy4wNUMzOC4xOTUsNDguNDY4LDM3LjU1Nyw0OC4yMDksMzcu
-MDQ4LDQ4LjM5MXoiLz4NCgk8L2c+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8
-L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9n
-Pg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4N
-CjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8L3N2Zz4NCg==
+```
+git clone https://github.com/Cyfrin/foundry-nft-f23
+cd foundry-nft-f23
+forge install
+forge build
+```
+
+### Optional Gitpod
+
+If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/PatrickAlphaC/foundry-foundry-nft-f23)
+
+# Usage
+
+## Start a local node
+
+```
+make anvil
+```
+
+## Deploy
+
+This will default to your local node. You need to have it running in another terminal in order for it to deploy.
+
+```
+make deploy
+```
+
+## Deploy - Other Network
+
+[See below](#deployment-to-a-testnet-or-mainnet)
+
+## Testing
+
+We talk about 4 test tiers in the video. 
+
+1. Unit
+2. Integration
+3. Forked
+4. Staging
+
+This repo we cover #1 and #3. 
+
+```
+forge test
+```
+
+or 
+
+```
+forge test --fork-url $SEPOLIA_RPC_URL
+```
+
+### Test Coverage
+
+```
+forge coverage
+```
 
 
-example_svg: 
-data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRw
-Oi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjUwMCI+DQo8dGV4
-dCB4PSIwIiB5PSIxNSIgZmlsbD0iYmxhY2siPkhpISBZb3VyIGJyb3dzZXIgZGVjb2RlZCB0aGlz
-PC90ZXh0Pg0KPC9zdmc+
+# Deployment to a testnet or mainnet
+
+1. Setup environment variables
+
+You'll want to set your `SEPOLIA_RPC_URL` and `PRIVATE_KEY` as environment variables. You can add them to a `.env` file, similar to what you see in `.env.example`.
+
+- `PRIVATE_KEY`: The private key of your account (like from [metamask](https://metamask.io/)). **NOTE:** FOR DEVELOPMENT, PLEASE USE A KEY THAT DOESN'T HAVE ANY REAL FUNDS ASSOCIATED WITH IT.
+  - You can [learn how to export it here](https://metamask.zendesk.com/hc/en-us/articles/360015289632-How-to-Export-an-Account-Private-Key).
+- `SEPOLIA_RPC_URL`: This is url of the goerli testnet node you're working with. You can get setup with one for free from [Alchemy](https://alchemy.com/?a=673c802981)
+
+Optionally, add your `ETHERSCAN_API_KEY` if you want to verify your contract on [Etherscan](https://etherscan.io/).
+
+1. Get testnet ETH
+
+Head over to [faucets.chain.link](https://faucets.chain.link/) and get some tesnet ETH. You should see the ETH show up in your metamask.
+
+2. Deploy (IPFS NFT)
+
+```
+make deploy ARGS="--network sepolia"
+```
+
+3. Deploy (SVG NFT)
+
+```
+make deploySvg ARGS="--network sepolia"
+```
+
+## Scripts
+
+After deploy to a testnet or local net, you can run the scripts. 
+
+Using cast deployed locally example: 
+
+```
+cast send <RAFFLE_CONTRACT_ADDRESS> "enterRaffle()" --value 0.1ether --private-key <PRIVATE_KEY> --rpc-url $SEPOLIA_RPC_URL
+```
+
+or, to create a ChainlinkVRF Subscription:
+
+```
+make createSubscription ARGS="--network sepolia"
+```
+
+## Base64
+
+To get the base64 of an image, you can use the following command:
+
+```
+echo "data:image/svg+xml;base64,$(base64 -i ./images/dynamicNft/happy.svg)"
+```
+
+Then, you can get the base64 encoding of the json object by placing the imageURI into `happy_image_uri.json` then running:
+
+```
+echo "data:application/json;base64,$(base64 -i ./images/dynamicNft/happy_image_uri.json)"
+```
+
+
+## Estimate gas
+
+You can estimate how much gas things cost by running:
+
+```
+forge snapshot
+```
+
+And you'll see and output file called `.gas-snapshot`
+
+
+# Formatting
+
+
+To run code formatting:
+```
+forge fmt
+```
+
+
+# Thank you!
